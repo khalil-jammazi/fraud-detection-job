@@ -1,0 +1,3 @@
+echo 'build:
+  docker:
+    web: Dockerfile' > heroku.yml
